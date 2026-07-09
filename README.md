@@ -4,7 +4,7 @@ Welcome to **KekeOS_Native**, a custom 32-bit x86 bare-metal operating system wr
 
 This repository contains the original, pure bare-metal version of the Keke-OS project. It includes a custom bootloader setup, a basic kernel, framebuffer graphics with custom bitmap fonts, and an IDE/ATA storage driver.
 
-> **Project Status:** This native version is currently archived/on pause. The project has moved to a Linux-kernel-based architecture over at [Keke-OS](https://github.com) to leverage robust hardware drivers for the Purr++ gaming engine.
+> **Project Status:** This native version is currently archived/on pause. The project has moved to a Linux-kernel-based architecture over at [Keke OS](https://github.com/kominkrystof-cpu/Keke-OS) to leverage robust hardware drivers for the Purr++ gaming engine.
 
 ---
 
